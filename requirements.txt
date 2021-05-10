@@ -12,4 +12,4 @@ python-magic
 requests
 tenacity>=6.0.0
 TgCrypto>=1.1.1,<1.1.10
-git+git://github.com/sudoshell/youtube-dl@master#youtube_dl
+youtube_dl
